@@ -1,0 +1,5 @@
+host = "localhost"
+user = "yelnikov"
+password = "620121"
+db_name = "ZNU_BOT"
+api_token = "7362065990:AAGbuq3oN1oardFkGXYUZfCSN40UgGY2qjo"
